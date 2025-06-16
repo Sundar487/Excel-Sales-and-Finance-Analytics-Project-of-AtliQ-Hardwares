@@ -204,8 +204,3 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 **Gross Margin % by Quarter:** Our profit margins changed over time. For example, the ANZ region's margin decreased, while the North American region's stayed steady. This helps us understand how different areas are doing and make smart decisions.
 
-
-### Certificate of completion from Code basics
-
-
-<img width="600" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Finacial_Analysis/Code%20basic%20Excel%20Certification%20after%20complete.png">
